@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bukuweixiao123 on github.
+  * I am bukuweixiao (https://keybase.io/bukuweixiao) on keybase.
+  * I have a public key ASCnBBUZQew5yreHR13XPq5f9WdAVKk8W6HeIvxe9q5TFAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a704151941ec39cab787475dd73eae5ff5674054a93c5ba1de22fc5ef6ae53140a",
+      "host": "keybase.io",
+      "kid": "0120a704151941ec39cab787475dd73eae5ff5674054a93c5ba1de22fc5ef6ae53140a",
+      "uid": "9099c564cefca1231d8254f345d70919",
+      "username": "bukuweixiao"
+    },
+    "merkle_root": {
+      "ctime": 1568206714,
+      "hash": "a871b43eb097093e439e61f942b8dcf8cde9ba75d9ab0df799593961764564d2aee898a0b23faf22b0dbfb20d3b9290b1eb623b07dfb37bb3ff32940fd1dfc2f",
+      "hash_meta": "7ddb5254733aad4f8d498e1b58f1e1da4b2a1804eae5af93a65de582d64d6e55",
+      "seqno": 6706800
+    },
+    "service": {
+      "entropy": "NQwChhXiBZzK/gcIGXCmgd5T",
+      "name": "github",
+      "username": "bukuweixiao123"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568206767,
+  "expire_in": 504576000,
+  "prev": "1d66f54eaf7f52ad0f391be910d8cf1aeff17660b89f386eb5ae2134ec1a77db",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASCnBBUZQew5yreHR13XPq5f9WdAVKk8W6HeIvxe9q5TFAo](https://keybase.io/bukuweixiao), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpwQVGUHsOcq3h0dd1z6uX/VnQFSpPFuh3iL8XvauUxQKp3BheWxvYWTESpcCBcQgHWb1Tq9/Uq0PORvpENjPGu/xdmC4nzhuta4hNOwad9vEINjnvyDKpV3koF6r8YO9yCug6AyNhz42sS3A4hW3ryZoAgHCo3NpZ8RA0GlLrd+iSot2dUvNFJazr2G9LaSHaRVoQc7TzkOdnkUCBFAenxqORbBvMiUjPx9yOopY8tFl9q279Cl8caiwD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB4PpAtq7nVENPcA5bBJAY6g1sSAuktqThxBdcr5Wxapo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/bukuweixiao
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id bukuweixiao
+```
